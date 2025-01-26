@@ -1,4 +1,4 @@
 .DS_Store
 gituser.sh
 *.o
-s21_cat
+s21_grep
